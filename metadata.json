@@ -1,0 +1,6 @@
+{
+  "name": "LoadMitra - Nepal Freight & Cargo Marketplace",
+  "description": "Full-stack goods transportation and courier marketplace for Nepal connecting shippers, mini-trucks, pickups, and commercial freight carriers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
